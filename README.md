@@ -7,7 +7,7 @@
 <div size='20px'> Alooooo! Mi nombre es Isac, Te mando un saludo si vez mi perfil, ¡MUCHAS GRACIAS! :grimacing: 
 </div>
 
-<img src = "https://media.tenor.com/AGoJL8iLP5UAAAAi/akselav-cat.gif" width = 350px>
+<img src = "https://media.tenor.com/AGoJL8iLP5UAAAAi/akselav-cat.gif" width = 350px align='center'>
 <h2> Acerca de mi</h2>
 
 <img width="25%" align="right" alt="Github" src="https://www.svgrepo.com/show/311879/cat-with-wry-smile.svg" />
