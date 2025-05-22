@@ -1,61 +1,64 @@
-<h1> Hola Compañeros < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<h1 align="center">
+  Hola Compañeros < Developers/ >! 👋 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
-<div size='20px'> Alooooo! Mi nombre es Isac, Te mando un saludo si vez mi perfil, ¡MUCHAS GRACIAS! :grimacing: 
+<p align="center">✨ ¡Bienvenido a mi perfil de GitHub! ✨</p>
+
+---
+
+<div align="center">
+  <h3>👋 ¡Alooo! Soy <strong>Isac</strong>, gracias por visitar mi perfil 💻</h3>
+  <img src="https://media.tenor.com/AGoJL8iLP5UAAAAi/akselav-cat.gif" width="300px">
+  <img src="https://media1.tenor.com/m/QWyZ0gl_H84AAAAd/mad-cat-fr-lol.gif" width="200px">
 </div>
 
-<p align="center">
-  <img src="https://media.tenor.com/AGoJL8iLP5UAAAAi/akselav-cat.gif" width="350px">
-  <img src="https://media1.tenor.com/m/QWyZ0gl_H84AAAAd/mad-cat-fr-lol.gif" width="200px">
-</p>
+---
 
-<h2>Acerca de mí</h2>
+## 🧑‍💻 Acerca de mí
 
+<img width="25%" align="right" alt="Github Cat" src="https://www.svgrepo.com/show/311879/cat-with-wry-smile.svg" />
 
-<img width="25%" align="right" alt="Github" src="https://www.svgrepo.com/show/311879/cat-with-wry-smile.svg" />
+- 🔭 Actualmente trabajando como **Desarrollador Web**
+- 🌱 Aprendiendo **Laravel** y **ASP.NET Core**
+- 👯 Buscando colaborar en proyectos interesantes 🚀
+- 💬 Pregúntame sobre **PHP, MySQL, SQL Server, Flutter, Dart**
+- ⚡ Dato curioso: Me gusta la **Dr. Pepper** 🥤
 
-- 🔭 Actualmente estoy trabajando como desarrollador Web
-  
-- 🌱 Actualmente estoy aprendiendo Laravel y ASP .NET Core
-  
-- 👯 Busco colaborar en proyectos o realizar proyectos independientemente
-  
-- 💬 Preguntame sobre PHP, MySQL, SQL Server, Flutter, Dart
-  
-- ⚡ Dato Curioso: Me gusta la Dr. Pepper :ok_hand:
+---
 
-<h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+## 🚀 Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,php,html,css,scss,javascript,dotnet,cs,mysql,flutter,dart,nodejs,npm,git" />
   </a>
 </p>
 
+---
 
-<h2> Conectate conmigoo! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.facebook.com/isac.montes.273710'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/382721/facebook.svg"/></a> 
-<a href = 'https://www.instagram.com/isac_montes_1/'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/157806/instagram.svg"/></a> 
-<a href = 'https://github.com/KunaiYJ'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/475654/github-color.svg"/></a> 
+## 🤝 Conéctate conmigo <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 
-  
-<br>
-<br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+<p align="center">
+  <a href="https://www.facebook.com/isac.montes.273710"><img width="32px" src="https://www.svgrepo.com/show/382721/facebook.svg" /></a>
+  <a href="https://www.instagram.com/isac_montes_1/"><img width="32px" src="https://www.svgrepo.com/show/157806/instagram.svg" /></a>
+  <a href="https://github.com/KunaiYJ"><img width="32px" src="https://www.svgrepo.com/show/475654/github-color.svg" /></a>
+</p>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+---
+
+## 📊 GitHub Stats
+
+| ![KunaiYJ GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunaiYJ&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunaiYJ&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunaiYJ&layout=compact&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=KunaiYJ&show_icons=true&hide=prs&theme=tokyonight&hide_rank=true&count_private=true) |
+
+---
+
+## 😂 Un poco de humor para el camino
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
+---
 
-<br>
-
-
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-
-Last Edited on: 04/09/2021
+<sub>✨ Perfil inspirado por [Aditya664](https://github.com/Aditya664) ✨</sub>
