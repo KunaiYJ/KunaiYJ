@@ -61,4 +61,4 @@
 
 ---
 
-<sub>✨ Perfil inspirado por [Aditya664](https://github.com/Aditya664) ✨</sub>
+<sub>✨ livianese  ✨</sub>
