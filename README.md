@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/AGoJL8iLP5UAAAAi/akselav-cat.gif" width="350px">
-  <img src="https://media1.tenor.com/m/QWyZ0gl_H84AAAAd/mad-cat-fr-lol.gif" width="300px">
+  <img src="https://media1.tenor.com/m/QWyZ0gl_H84AAAAd/mad-cat-fr-lol.gif" width="100px">
 </p>
 
 <h2>Acerca de mí</h2>
