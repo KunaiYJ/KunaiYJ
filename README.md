@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <h3>👋 ¡Alooo! Soy <strong>Isac</strong>, gracias por visitar mi perfil 💻</h3>
+  <h3> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ¡Alooo! Soy <strong>Isac</strong>, gracias por visitar mi perfil 💻</h3>
   <img src="https://media.tenor.com/AGoJL8iLP5UAAAAi/akselav-cat.gif" width="300px">
   <img src="https://media1.tenor.com/m/QWyZ0gl_H84AAAAd/mad-cat-fr-lol.gif" width="200px">
 </div>
