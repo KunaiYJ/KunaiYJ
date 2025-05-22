@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/AGoJL8iLP5UAAAAi/akselav-cat.gif" width="350px">
+  <img src="https://media1.tenor.com/m/Xq4nou6Mmo8AAAAC/i%27m-cooking---cat-typing-on-keyboard.gif" width="350px">
 </p>
 
 <h2>Acerca de mí</h2>
