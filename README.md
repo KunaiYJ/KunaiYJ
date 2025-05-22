@@ -2,8 +2,6 @@
 <p align='center'>
 </p>
 
-[![Github](https://github.com/KunaiYJ?tab=followers)](https://github.com/KunaiYJ)
-
 <div size='20px'> Alooooo! Mi nombre es Isac, Te mando un saludo si vez mi perfil, ¡MUCHAS GRACIAS! :grimacing: 
 </div>
 
@@ -37,6 +35,7 @@
 <h2> Conectate conmigoo! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.facebook.com/isac.montes.273710'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/382721/facebook.svg"/></a> 
 <a href = 'https://www.instagram.com/isac_montes_1/'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/157806/instagram.svg"/></a> 
+<a href = 'https://github.com/KunaiYJ'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/303615/github-icon-1-logo.svg"/></a> 
 
   
 <br>
