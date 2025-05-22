@@ -35,7 +35,7 @@
 
 
 <h2> Conectate conmigoo! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = '[https://www.linkedin.com/in/aditya-deshmukh-561a371a8](https://www.facebook.com/isac.montes.273710)'> <img width = '32px' align= 'center' src="https://images.icon-icons.com/1934/PNG/512/iconfinder-social-media-web-network-logo02-4584667_122300.png"/></a> 
+<a href = '[https://www.linkedin.com/in/aditya-deshmukh-561a371a8](https://www.facebook.com/isac.montes.273710)'> <img width = '32px' align= 'center' src=""/></a> 
 <a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
