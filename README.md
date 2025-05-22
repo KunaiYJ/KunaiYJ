@@ -9,7 +9,7 @@
 
 <h2> Acerca de mi <img src = "https://media.tenor.com/AGoJL8iLP5UAAAAi/akselav-cat.gif" width = 100px></h2>
 
-<img width="30%" align="right" alt="Github" src="https://www.svgrepo.com/show/311879/cat-with-wry-smile.svg" />
+<img width="25%" align="right" alt="Github" src="https://www.svgrepo.com/show/311879/cat-with-wry-smile.svg" />
 
 - 🔭 Actualmente estoy trabajando como desarrollador Web
   
