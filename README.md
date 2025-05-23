@@ -19,7 +19,7 @@
 
 <img width="25%" align="right" alt="Github Cat" src="https://www.svgrepo.com/show/311879/cat-with-wry-smile.svg" />
 
-- 🔭 Actualmente trabajando como **Desarrollador Web**
+- 🔭 Actualmente trabajando como **Desarrollador Web Jr**
 - 🌱 Aprendiendo **Laravel** y **ASP.NET Core**
 - 👯 Buscando colaborar en proyectos interesantes 🚀
 - 💬 Pregúntame sobre **PHP, MySQL, SQL Server, Flutter, Dart**
